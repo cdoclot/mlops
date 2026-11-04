@@ -1,0 +1,14 @@
+{
+  "identities": [
+    {
+      "name": "mlops",
+      "credentials": [
+        {
+          "accessKey": "mlops",
+          "secretKey": "mlops-secret"
+        }
+      ],
+      "actions": ["Admin", "Read", "List", "Tagging", "Write"]
+    }
+  ]
+}
